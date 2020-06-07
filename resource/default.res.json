@@ -1,0 +1,30 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,6401136_jpg,head_jpg,chunJiangHuaYueYeByDaWei_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/6401136.jpg",
+			"type": "image",
+			"name": "6401136_jpg"
+		},
+		{
+			"url": "assets/head.jpg",
+			"type": "image",
+			"name": "head_jpg"
+		},
+		{
+			"url": "assets/chunJiangHuaYueYeByDaWei.mp3",
+			"type": "sound",
+			"name": "chunJiangHuaYueYeByDaWei_mp3"
+		}
+	]
+}
